@@ -1,4 +1,4 @@
-print("Starting Duosploit V4!")
+print("Starting Duosploit V5(BETA)!")
 import subprocess
 required_libraries = ['PyQt5==5.15.9','PyQtWebEngine',]
 try:
